@@ -1,0 +1,71 @@
+<!DOCTYPE html>                                                                       
+<html Long="pt-br">  
+<head>  
+    <meta charset="UTF-8"> 
+    <meta nome="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link> rel="stylesheet" href="style.css">
+    <title>Meu Site</title> 
+</head>
+<body>
+
+    <header>
+
+       <h1>Meu Site</h1>
+       <p>Meu site muito top!</p>
+
+    </header>
+
+
+<nav>
+
+<a href="">Inicio</a>
+<a href="">Pagina 2</a>
+<a href="">Pagina 3</a>
+<a href="">Pagina 4</a>
+
+
+</nav>
+
+
+<section id="row">
+
+
+<aside>
+
+     <h2>Sobre Mim</h2> 
+     <h5>Foto</h5> 
+     <div class="fakeimage">Imagem</div>
+
+     <p>Minha Bio</p> 
+     <h3>Minha Galeria</h3> 
+
+    <div class="fakeimage">Imagem</div>
+    <div class="fakeimage">Imagem</div>
+    <div class="fakeimage">Imagem</div>
+    
+</aside>
+
+
+<main>
+
+    <article>
+
+       <h2>TITULO DA POSTAGEM</h2> 
+       <H5>Gustavo, 30 Fev, 2025</H5>
+       <div class="fakeimage">Imagem</div>
+       <p>
+
+        Meu nome é Gustavo
+
+       </p>
+
+    </article>
+
+</main>
+
+
+</section>
+
+
+</body> 
+</html>
